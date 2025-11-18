@@ -1,0 +1,4 @@
+pwd
+lsal
+bash --version
+
